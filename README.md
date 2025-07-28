@@ -1,0 +1,15 @@
+<html>
+   <style>
+    body{ background-image: url(https://scontent.fktm19-1.fna.fbcdn.net/v/t1.15752-9/511196340_2222055898236238_6214900193087460170_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=0024fc&_nc_ohc=y8v-9HnNY9wQ7kNvwE1FhWq&_nc_oc=AdmEzIX9OKwmJQWgahZE7P2F5OCN8LlmVEZnw5J05qcvJghFipi7W19qCmXITvaLYVLDL8X31ImgJIijX1QK7nGO&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fktm19-1.fna&oh=03_Q7cD2wEhTdt-OPDlw_zJA2D_LautlkqG29Rd290ddU6A41m_Bg&oe=68AEE8E5);
+    }</style>
+   <h>
+   <body>
+   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<a href="https://www.spotify.com" target="_blank" style="background:white; padding:10px; border-radius:50%;"><i class="fab fa-spotify" style="color:#1DB954; font-size:24px;"></i></a>
+<a href="https://www.tiktok.com" target="_blank" style="background:white; padding:10px; border-radius:50%;"><i class="fab fa-tiktok" style="color:#000000; font-size:24px;"></i></a>
+<a href="https://www.pinterest.com" target="_blank" style="background:white; padding:10px; border-radius:50%;"><i class="fab fa-pinterest" style="color:#E60023; font-size:24px;"></i></a>
+<a href="https://www.instagram.com" target="_blank" style="background:white; padding:10px; border-radius:50%;"><i class="fab fa-instagram" style="color:#E1306C; font-size:24px;"></i></a>
+
+   </body>
+   </h>
+   <div class="html"></div>
